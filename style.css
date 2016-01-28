@@ -8,10 +8,33 @@ div{
 .fondo{
 	height: 140px;
 	width: 430px;
+	display: inline-block;
+
 }
 .inline{
 	display: inline-block;
 }
 body{
 	background-color: rgba(118, 60, 204, 0.4);
-
+}
+.bajo{
+	width: 550px;
+	height: 800px;
+	background-color: pink;
+	margin-left: 5%;
+}
+.frente{
+	display: inline-block;
+}
+.der{
+	margin-left: 75%;
+}
+.der1{
+	margin-left: 15%;
+}
+.der2{
+	margin-left: 49%;
+}
+.img{
+	background: url(http://2.bp.blogspot.com/-e47YEL0y6d0/UcRsG7bBAWI/AAAAAAAAI1A/shYa3lIYy70/s1600/13509825-fondo-pintado-con-diferentes-texturas-anadido.jpg);
+}
