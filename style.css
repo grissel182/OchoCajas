@@ -1,0 +1,14 @@
+div{
+	border: 10px solid green;
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+.fondo{
+	height: 140px;
+	width: 430px;
+}
+.inline{
+	display: inline-block;
+}
