@@ -12,3 +12,6 @@ div{
 .inline{
 	display: inline-block;
 }
+body{
+	background-color: rgba(118, 60, 204, 0.4);
+
